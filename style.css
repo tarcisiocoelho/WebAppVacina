@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.container{
+
+}
+
+.container .sidebar_perfil{
+
+}
+
+.centralizar_infos{
+    display: flex;
+    align-items: center;
+}
+
+.container .sidebar{
+    background-color:#00c9d2;
+    width: 250px;
+    height: 100vh;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container .sidebar ul{
+    margin: 15px;
+    color: white;
+}
